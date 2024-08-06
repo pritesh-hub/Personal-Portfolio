@@ -390,15 +390,15 @@ body {
 }
 
 .bar .progress-line.Cpp span {
-    width: 90%;
+    width: 70%;
 }
 
 .bar .progress-line.Python span {
-    width: 95%;
+    width: 70%;
 }
 
 .bar .progress-line.Java span {
-    width: 10%;
+    width: 80%;
 }
 
 .bar .progress-line.HTML span {
@@ -446,15 +446,15 @@ body {
 }
 
 .progress-line.Cpp span::after {
-    content: "90%";
+    content: "70%";
 }
 
 .progress-line.Python span::after {
-    content: "85%";
+    content: "70%";
 }
 
 .progress-line.Java span::after {
-    content: "10%";
+    content: "80%";
 }
 
 .progress-line.HTML span::after {
